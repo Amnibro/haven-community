@@ -1,0 +1,17 @@
+{
+  "name": "haven-bot-discord-bridge",
+  "version": "1.0.0",
+  "description": "Two-way bridge between a Discord channel and a Haven channel.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  },
+  "dependencies": {
+    "discord.js": "^14.15.3",
+    "socket.io-client": "^4.7.5"
+  },
+  "license": "MIT"
+}

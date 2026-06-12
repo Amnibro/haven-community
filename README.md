@@ -15,6 +15,7 @@ If you've built something useful for Haven, please PR it in. See [`CONTRIBUTING.
 | Name | Description | Language | Author |
 |------|-------------|----------|--------|
 | [`github-releases`](bots/github-releases/) | Posts a formatted message to a Haven channel whenever a new release is published on a watched GitHub repository. | Node.js | [@ancsemi](https://github.com/ancsemi) |
+| [`discord-bridge`](bots/discord-bridge/) | Two-way bridge between a Discord channel and a Haven channel — human messages on either side appear on the other, attributed to the original author. | Node.js | [@Amnibro](https://github.com/Amnibro) |
 
 ### Webhooks
 
