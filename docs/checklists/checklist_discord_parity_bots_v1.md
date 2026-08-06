@@ -24,8 +24,8 @@ Pace: **2 bots every 15 minutes** until the queue is empty.
 | 14 | `weather` | Weather bots | [x] |
 | 15 | `reddit` | Reddit feed bots | [x] |
 | 16 | `scheduled-announce` | Scheduled messages | [x] |
-| 17 | `tickets` | Ticket Tool | [ ] |
-| 18 | `suggestions` | Suggestion boxes | [ ] |
+| 17 | `tickets` | Ticket Tool | [x] |
+| 18 | `suggestions` | Suggestion boxes | [x] |
 | 19 | `moderation` | Dyno mod slash cmds | [ ] |
 | 20 | `afk` | AFK bots | [ ] |
 
@@ -84,6 +84,7 @@ Already elsewhere: `github-releases` (upstream), `discord-bridge` (fork branch `
 ## Batches
 
 - [x] Batches 1–8: through scheduled-announce
+- [x] Batch 9: tickets + suggestions
 - [ ] Continue at 2 bots / 15 min until queue empty
 - [ ] Open PR to ancsemi/haven-community (or keep on Amnibro fork)
 

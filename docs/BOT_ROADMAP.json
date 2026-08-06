@@ -17,11 +17,11 @@
     "translate",
     "weather",
     "reddit",
-    "scheduled-announce"
+    "scheduled-announce",
+    "tickets",
+    "suggestions"
   ],
   "queue": [
-    "tickets",
-    "suggestions",
     "moderation",
     "afk",
     "counting",

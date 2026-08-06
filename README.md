@@ -31,6 +31,8 @@ If you've built something useful for Haven, please PR it in. See [`CONTRIBUTING.
 | [`weather`](bots/weather/) | Slash `/weather` using Open-Meteo geocoding + forecast (no key). | Node.js | [@Amnibro](https://github.com/Amnibro) |
 | [`reddit`](bots/reddit/) | Poll subreddit new listings and post fresh threads. | Node.js | [@Amnibro](https://github.com/Amnibro) |
 | [`scheduled-announce`](bots/scheduled-announce/) | Interval or daily HH:MM channel announcements. | Node.js | [@Amnibro](https://github.com/Amnibro) |
+| [`tickets`](bots/tickets/) | Support tickets: `/ticket open|close|list` with persisted cards. | Node.js | [@Amnibro](https://github.com/Amnibro) |
+| [`suggestions`](bots/suggestions/) | Suggestion box: `/suggest`, list, approve/reject (optional approvers). | Node.js | [@Amnibro](https://github.com/Amnibro) |
 
 ### Webhooks
 
