@@ -21,11 +21,11 @@
     "tickets",
     "suggestions",
     "moderation",
-    "afk"
+    "afk",
+    "counting",
+    "quotes"
   ],
   "queue": [
-    "counting",
-    "quotes",
     "define",
     "crypto",
     "world-clock",

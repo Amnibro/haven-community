@@ -35,6 +35,8 @@ If you've built something useful for Haven, please PR it in. See [`CONTRIBUTING.
 | [`suggestions`](bots/suggestions/) | Suggestion box: `/suggest`, list, approve/reject (optional approvers). | Node.js | [@Amnibro](https://github.com/Amnibro) |
 | [`moderation`](bots/moderation/) | Slash `/kick` `/ban` `/unban` `/mute` `/unmute` (needs `can_moderate`). | Node.js | [@Amnibro](https://github.com/Amnibro) |
 | [`afk`](bots/afk/) | `/afk` `/back` plus mention announcements when someone is AFK. | Node.js | [@Amnibro](https://github.com/Amnibro) |
+| [`counting`](bots/counting/) | Sequential counting channel game (reset or STRICT freeze). | Node.js | [@Amnibro](https://github.com/Amnibro) |
+| [`quotes`](bots/quotes/) | Quote book: `/quote add|random|get|list`. | Node.js | [@Amnibro](https://github.com/Amnibro) |
 
 ### Webhooks
 
