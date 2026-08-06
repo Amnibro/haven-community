@@ -22,8 +22,8 @@ Pace: **2 bots every 30 minutes** until the major list is complete.
 | 12 | `uptime` | Status / uptime pings | [x] |
 | 13 | `translate` | Translate bots | [x] |
 | 14 | `weather` | Weather bots | [x] |
-| 15 | `reddit` | Reddit feed bots | [ ] |
-| 16 | `scheduled-announce` | Scheduled messages | [ ] |
+| 15 | `reddit` | Reddit feed bots | [x] |
+| 16 | `scheduled-announce` | Scheduled messages | [x] |
 | 17 | `tickets` | Ticket Tool | [ ] |
 | 18 | `suggestions` | Suggestion boxes | [ ] |
 | 19 | `moderation` | Dyno mod slash cmds | [ ] |
@@ -49,7 +49,7 @@ Already elsewhere: `github-releases` (upstream), `discord-bridge` (fork branch `
 - [x] Batch 5: youtube, polls
 - [x] Batch 6: giveaway, uptime
 - [x] Batch 7: translate, weather
-- [ ] Batch 8: reddit, scheduled-announce
+- [x] Batch 8: reddit, scheduled-announce
 - [ ] Batch 9: tickets, suggestions
 - [ ] Batch 10: moderation, afk
 - [ ] Open PR to ancsemi/haven-community (or keep on Amnibro fork)

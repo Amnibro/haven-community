@@ -15,11 +15,11 @@
     "giveaway",
     "uptime",
     "translate",
-    "weather"
+    "weather",
+    "reddit",
+    "scheduled-announce"
   ],
   "queue": [
-    "reddit",
-    "scheduled-announce",
     "tickets",
     "suggestions",
     "moderation",

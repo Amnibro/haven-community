@@ -29,6 +29,8 @@ If you've built something useful for Haven, please PR it in. See [`CONTRIBUTING.
 | [`uptime`](bots/uptime/) | Poll URLs and announce up/down flips with latency. | Node.js | [@Amnibro](https://github.com/Amnibro) |
 | [`translate`](bots/translate/) | Slash `/translate` via LibreTranslate or MyMemory fallback. | Node.js | [@Amnibro](https://github.com/Amnibro) |
 | [`weather`](bots/weather/) | Slash `/weather` using Open-Meteo geocoding + forecast (no key). | Node.js | [@Amnibro](https://github.com/Amnibro) |
+| [`reddit`](bots/reddit/) | Poll subreddit new listings and post fresh threads. | Node.js | [@Amnibro](https://github.com/Amnibro) |
+| [`scheduled-announce`](bots/scheduled-announce/) | Interval or daily HH:MM channel announcements. | Node.js | [@Amnibro](https://github.com/Amnibro) |
 
 ### Webhooks
 
