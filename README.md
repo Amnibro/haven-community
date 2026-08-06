@@ -21,6 +21,8 @@ If you've built something useful for Haven, please PR it in. See [`CONTRIBUTING.
 | [`automod`](bots/automod/) | Word-list automod on `message` events: warn, optional delete and mute. | Node.js | [@Amnibro](https://github.com/Amnibro) |
 | [`custom-commands`](bots/custom-commands/) | User-defined canned tags via `/tag` and optional `!prefix` message triggers. | Node.js | [@Amnibro](https://github.com/Amnibro) |
 | [`leveling`](bots/leveling/) | Message XP / levels with `/rank` and `/levels` leaderboard. | Node.js | [@Amnibro](https://github.com/Amnibro) |
+| [`starboard`](bots/starboard/) | Posts highlighted messages when star reactions hit a threshold. | Node.js | [@Amnibro](https://github.com/Amnibro) |
+| [`twitch-live`](bots/twitch-live/) | Announces when watched Twitch streamers go live (Helix API). | Node.js | [@Amnibro](https://github.com/Amnibro) |
 
 ### Webhooks
 
