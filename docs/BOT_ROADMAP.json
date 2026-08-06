@@ -37,11 +37,11 @@
     "dice",
     "choose",
     "wikipedia",
-    "math"
+    "math",
+    "joke",
+    "animal-pics"
   ],
   "queue": [
-    "joke",
-    "animal-pics",
     "github-issues",
     "npm-releases",
     "birthday",

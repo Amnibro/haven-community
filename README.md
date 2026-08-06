@@ -51,6 +51,8 @@ If you've built something useful for Haven, please PR it in. See [`CONTRIBUTING.
 | [`choose`](bots/choose/) | `/choose a \| b \| c` random pick. | Node.js | [@Amnibro](https://github.com/Amnibro) |
 | [`wikipedia`](bots/wikipedia/) | `/wiki <query>` MediaWiki summary + link. | Node.js | [@Amnibro](https://github.com/Amnibro) |
 | [`math`](bots/math/) | `/math <expr>` safe calculator (+ - * / ^ %). | Node.js | [@Amnibro](https://github.com/Amnibro) |
+| [`joke`](bots/joke/) | `/joke` dad & programming jokes (public APIs). | Node.js | [@Amnibro](https://github.com/Amnibro) |
+| [`animal-pics`](bots/animal-pics/) | `/cat` `/dog` random animal image URLs. | Node.js | [@Amnibro](https://github.com/Amnibro) |
 
 ### Webhooks
 
