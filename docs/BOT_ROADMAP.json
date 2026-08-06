@@ -51,11 +51,11 @@
     "report",
     "sticky",
     "timezone-convert",
-    "urbandict"
+    "urbandict",
+    "color",
+    "uuid-tool"
   ],
   "queue": [
-    "color",
-    "uuid-tool",
     "base64",
     "password-gen",
     "echo-once",

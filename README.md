@@ -65,6 +65,8 @@ If you've built something useful for Haven, please PR it in. See [`CONTRIBUTING.
 | [`sticky`](bots/sticky/) | `/sticky set`; re-post every N messages. | Node.js | [@Amnibro](https://github.com/Amnibro) |
 | [`timezone-convert`](bots/timezone-convert/) | `/tz <time> <from> <to>` zone convert. | Node.js | [@Amnibro](https://github.com/Amnibro) |
 | [`urbandict`](bots/urbandict/) | `/ud <term>` Urban Dictionary (often NSFW). | Node.js | [@Amnibro](https://github.com/Amnibro) |
+| [`color`](bots/color/) | `/color #RRGGBB` RGB/HSL/contrast breakdown. | Node.js | [@Amnibro](https://github.com/Amnibro) |
+| [`uuid-tool`](bots/uuid-tool/) | `/uuid [n]` generate UUID v4 values. | Node.js | [@Amnibro](https://github.com/Amnibro) |
 
 ### Webhooks
 

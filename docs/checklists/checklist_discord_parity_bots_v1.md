@@ -63,8 +63,8 @@ Pace: **2 bots every 15 minutes** until the queue is empty.
 | 48 | `sticky` | Sticky message bots | [x] |
 | 49 | `timezone-convert` | TZ convert | [x] |
 | 50 | `urbandict` | Urban Dictionary | [x] |
-| 51 | `color` | Hex/color tools | [ ] |
-| 52 | `uuid-tool` | UUID generators | [ ] |
+| 51 | `color` | Hex/color tools | [x] |
+| 52 | `uuid-tool` | UUID generators | [x] |
 | 53 | `base64` | Encode/decode utils | [ ] |
 | 54 | `password-gen` | Password generators | [ ] |
 | 55 | `echo-once` | Ephemeral echo / DM-style | [ ] |
@@ -101,6 +101,7 @@ Already elsewhere: `github-releases` (upstream), `discord-bridge` (fork branch `
 - [x] Batch 23: trivia + warns
 - [x] Batch 24: report + sticky
 - [x] Batch 25: timezone-convert + urbandict
+- [x] Batch 26: color + uuid-tool
 - [ ] Continue at 2 bots / 15 min until queue empty
 - [ ] Open PR to ancsemi/haven-community (or keep on Amnibro fork)
 
