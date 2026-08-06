@@ -45,6 +45,8 @@ If you've built something useful for Haven, please PR it in. See [`CONTRIBUTING.
 | [`hackernews`](bots/hackernews/) | Poll HN top stories above SCORE_MIN. | Node.js | [@Amnibro](https://github.com/Amnibro) |
 | [`karma`](bots/karma/) | `name++` / `name--` and `/karma` scores. | Node.js | [@Amnibro](https://github.com/Amnibro) |
 | [`confessions`](bots/confessions/) | Anonymous `/confess` as Confession Bot. | Node.js | [@Amnibro](https://github.com/Amnibro) |
+| [`say`](bots/say/) | `/say <text>` re-posts as the bot (optional allowlist). | Node.js | [@Amnibro](https://github.com/Amnibro) |
+| [`purge`](bots/purge/) | `/purge match\|last` via message ring buffer + DELETE. | Node.js | [@Amnibro](https://github.com/Amnibro) |
 
 ### Webhooks
 

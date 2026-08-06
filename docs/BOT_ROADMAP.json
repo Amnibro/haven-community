@@ -31,11 +31,11 @@
     "steam-news",
     "hackernews",
     "karma",
-    "confessions"
+    "confessions",
+    "say",
+    "purge"
   ],
   "queue": [
-    "say",
-    "purge",
     "dice",
     "choose",
     "wikipedia",
