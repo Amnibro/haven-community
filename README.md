@@ -37,6 +37,8 @@ If you've built something useful for Haven, please PR it in. See [`CONTRIBUTING.
 | [`afk`](bots/afk/) | `/afk` `/back` plus mention announcements when someone is AFK. | Node.js | [@Amnibro](https://github.com/Amnibro) |
 | [`counting`](bots/counting/) | Sequential counting channel game (reset or STRICT freeze). | Node.js | [@Amnibro](https://github.com/Amnibro) |
 | [`quotes`](bots/quotes/) | Quote book: `/quote add|random|get|list`. | Node.js | [@Amnibro](https://github.com/Amnibro) |
+| [`define`](bots/define/) | `/define <word>` via Free Dictionary API. | Node.js | [@Amnibro](https://github.com/Amnibro) |
+| [`crypto`](bots/crypto/) | `/crypto <symbol>` prices via CoinGecko (no key). | Node.js | [@Amnibro](https://github.com/Amnibro) |
 
 ### Webhooks
 

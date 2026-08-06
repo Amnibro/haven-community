@@ -35,8 +35,8 @@ Pace: **2 bots every 15 minutes** until the queue is empty.
 |---|-----|------------------|--------|
 | 21 | `counting` | Counting channels | [x] |
 | 22 | `quotes` | Quote books | [x] |
-| 23 | `define` | Dictionary | [ ] |
-| 24 | `crypto` | Crypto price bots | [ ] |
+| 23 | `define` | Dictionary | [x] |
+| 24 | `crypto` | Crypto price bots | [x] |
 | 25 | `world-clock` | Timezone boards | [ ] |
 | 26 | `gitlab-releases` | GitLab release posts | [ ] |
 | 27 | `steam-news` | Steam news | [ ] |
@@ -87,6 +87,7 @@ Already elsewhere: `github-releases` (upstream), `discord-bridge` (fork branch `
 - [x] Batch 9: tickets + suggestions
 - [x] Batch 10: moderation + afk (wave 1 complete)
 - [x] Batch 11: counting + quotes
+- [x] Batch 12: define + crypto
 - [ ] Continue at 2 bots / 15 min until queue empty
 - [ ] Open PR to ancsemi/haven-community (or keep on Amnibro fork)
 

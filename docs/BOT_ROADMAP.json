@@ -23,11 +23,11 @@
     "moderation",
     "afk",
     "counting",
-    "quotes"
+    "quotes",
+    "define",
+    "crypto"
   ],
   "queue": [
-    "define",
-    "crypto",
     "world-clock",
     "gitlab-releases",
     "steam-news",
