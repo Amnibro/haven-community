@@ -49,6 +49,8 @@ If you've built something useful for Haven, please PR it in. See [`CONTRIBUTING.
 | [`purge`](bots/purge/) | `/purge match\|last` via message ring buffer + DELETE. | Node.js | [@Amnibro](https://github.com/Amnibro) |
 | [`dice`](bots/dice/) | `/roll NdM+K` classic dice notation. | Node.js | [@Amnibro](https://github.com/Amnibro) |
 | [`choose`](bots/choose/) | `/choose a \| b \| c` random pick. | Node.js | [@Amnibro](https://github.com/Amnibro) |
+| [`wikipedia`](bots/wikipedia/) | `/wiki <query>` MediaWiki summary + link. | Node.js | [@Amnibro](https://github.com/Amnibro) |
+| [`math`](bots/math/) | `/math <expr>` safe calculator (+ - * / ^ %). | Node.js | [@Amnibro](https://github.com/Amnibro) |
 
 ### Webhooks
 

@@ -35,11 +35,11 @@
     "say",
     "purge",
     "dice",
-    "choose"
+    "choose",
+    "wikipedia",
+    "math"
   ],
   "queue": [
-    "wikipedia",
-    "math",
     "joke",
     "animal-pics",
     "github-issues",
