@@ -13,11 +13,11 @@
     "youtube",
     "polls",
     "giveaway",
-    "uptime"
+    "uptime",
+    "translate",
+    "weather"
   ],
   "queue": [
-    "translate",
-    "weather",
     "reddit",
     "scheduled-announce",
     "tickets",
