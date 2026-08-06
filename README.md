@@ -39,6 +39,8 @@ If you've built something useful for Haven, please PR it in. See [`CONTRIBUTING.
 | [`quotes`](bots/quotes/) | Quote book: `/quote add|random|get|list`. | Node.js | [@Amnibro](https://github.com/Amnibro) |
 | [`define`](bots/define/) | `/define <word>` via Free Dictionary API. | Node.js | [@Amnibro](https://github.com/Amnibro) |
 | [`crypto`](bots/crypto/) | `/crypto <symbol>` prices via CoinGecko (no key). | Node.js | [@Amnibro](https://github.com/Amnibro) |
+| [`world-clock`](bots/world-clock/) | `/time` city or IANA zone; optional multi-zone board. | Node.js | [@Amnibro](https://github.com/Amnibro) |
+| [`gitlab-releases`](bots/gitlab-releases/) | Posts GitLab Release webhooks into a Haven channel. | Node.js | [@Amnibro](https://github.com/Amnibro) |
 
 ### Webhooks
 
