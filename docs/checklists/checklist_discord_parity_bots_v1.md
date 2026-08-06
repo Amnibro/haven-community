@@ -61,8 +61,8 @@ Pace: **2 bots every 15 minutes** until the queue is empty.
 | 46 | `warns` | Warn systems | [x] |
 | 47 | `report` | User report bots | [x] |
 | 48 | `sticky` | Sticky message bots | [x] |
-| 49 | `timezone-convert` | TZ convert | [ ] |
-| 50 | `urbandict` | Urban Dictionary | [ ] |
+| 49 | `timezone-convert` | TZ convert | [x] |
+| 50 | `urbandict` | Urban Dictionary | [x] |
 | 51 | `color` | Hex/color tools | [ ] |
 | 52 | `uuid-tool` | UUID generators | [ ] |
 | 53 | `base64` | Encode/decode utils | [ ] |
@@ -100,6 +100,7 @@ Already elsewhere: `github-releases` (upstream), `discord-bridge` (fork branch `
 - [x] Batch 22: bump-reminder + lastfm
 - [x] Batch 23: trivia + warns
 - [x] Batch 24: report + sticky
+- [x] Batch 25: timezone-convert + urbandict
 - [ ] Continue at 2 bots / 15 min until queue empty
 - [ ] Open PR to ancsemi/haven-community (or keep on Amnibro fork)
 

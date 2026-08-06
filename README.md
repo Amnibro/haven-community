@@ -63,6 +63,8 @@ If you've built something useful for Haven, please PR it in. See [`CONTRIBUTING.
 | [`warns`](bots/warns/) | `/warn` `/warns` staff warning log (STATE_FILE). | Node.js | [@Amnibro](https://github.com/Amnibro) |
 | [`report`](bots/report/) | `/report` to staff webhook (optional anonymous). | Node.js | [@Amnibro](https://github.com/Amnibro) |
 | [`sticky`](bots/sticky/) | `/sticky set`; re-post every N messages. | Node.js | [@Amnibro](https://github.com/Amnibro) |
+| [`timezone-convert`](bots/timezone-convert/) | `/tz <time> <from> <to>` zone convert. | Node.js | [@Amnibro](https://github.com/Amnibro) |
+| [`urbandict`](bots/urbandict/) | `/ud <term>` Urban Dictionary (often NSFW). | Node.js | [@Amnibro](https://github.com/Amnibro) |
 
 ### Webhooks
 

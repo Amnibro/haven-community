@@ -49,11 +49,11 @@
     "trivia",
     "warns",
     "report",
-    "sticky"
+    "sticky",
+    "timezone-convert",
+    "urbandict"
   ],
   "queue": [
-    "timezone-convert",
-    "urbandict",
     "color",
     "uuid-tool",
     "base64",
