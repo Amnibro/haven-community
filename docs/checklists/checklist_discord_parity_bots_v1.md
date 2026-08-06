@@ -45,8 +45,8 @@ Pace: **2 bots every 15 minutes** until the queue is empty.
 | 30 | `confessions` | Confession bots | [x] |
 | 31 | `say` | Admin announce-as-bot | [x] |
 | 32 | `purge` | Bulk delete helpers | [x] |
-| 33 | `dice` | RPG dice | [ ] |
-| 34 | `choose` | Pick-one bots | [ ] |
+| 33 | `dice` | RPG dice | [x] |
+| 34 | `choose` | Pick-one bots | [x] |
 | 35 | `wikipedia` | Wiki lookup | [ ] |
 | 36 | `math` | Calculator | [ ] |
 | 37 | `joke` | Joke bots | [ ] |
@@ -92,6 +92,7 @@ Already elsewhere: `github-releases` (upstream), `discord-bridge` (fork branch `
 - [x] Batch 14: steam-news + hackernews
 - [x] Batch 15: karma + confessions
 - [x] Batch 16: say + purge
+- [x] Batch 17: dice + choose
 - [ ] Continue at 2 bots / 15 min until queue empty
 - [ ] Open PR to ancsemi/haven-community (or keep on Amnibro fork)
 

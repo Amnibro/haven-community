@@ -33,11 +33,11 @@
     "karma",
     "confessions",
     "say",
-    "purge"
+    "purge",
+    "dice",
+    "choose"
   ],
   "queue": [
-    "dice",
-    "choose",
     "wikipedia",
     "math",
     "joke",
