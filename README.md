@@ -55,6 +55,8 @@ If you've built something useful for Haven, please PR it in. See [`CONTRIBUTING.
 | [`animal-pics`](bots/animal-pics/) | `/cat` `/dog` random animal image URLs. | Node.js | [@Amnibro](https://github.com/Amnibro) |
 | [`github-issues`](bots/github-issues/) | GitHub issues webhook → opened/closed cards. | Node.js | [@Amnibro](https://github.com/Amnibro) |
 | [`npm-releases`](bots/npm-releases/) | Poll npm registry for PACKAGE_NAMES version bumps. | Node.js | [@Amnibro](https://github.com/Amnibro) |
+| [`birthday`](bots/birthday/) | `/birthday set MM-DD`; daily happy-birthday list. | Node.js | [@Amnibro](https://github.com/Amnibro) |
+| [`rsvp`](bots/rsvp/) | `/event create` + RSVP yes/no/maybe. | Node.js | [@Amnibro](https://github.com/Amnibro) |
 
 ### Webhooks
 

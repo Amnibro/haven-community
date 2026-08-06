@@ -41,11 +41,11 @@
     "joke",
     "animal-pics",
     "github-issues",
-    "npm-releases"
+    "npm-releases",
+    "birthday",
+    "rsvp"
   ],
   "queue": [
-    "birthday",
-    "rsvp",
     "bump-reminder",
     "lastfm",
     "trivia",
