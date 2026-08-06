@@ -67,6 +67,8 @@ If you've built something useful for Haven, please PR it in. See [`CONTRIBUTING.
 | [`urbandict`](bots/urbandict/) | `/ud <term>` Urban Dictionary (often NSFW). | Node.js | [@Amnibro](https://github.com/Amnibro) |
 | [`color`](bots/color/) | `/color #RRGGBB` RGB/HSL/contrast breakdown. | Node.js | [@Amnibro](https://github.com/Amnibro) |
 | [`uuid-tool`](bots/uuid-tool/) | `/uuid [n]` generate UUID v4 values. | Node.js | [@Amnibro](https://github.com/Amnibro) |
+| [`base64`](bots/base64/) | `/b64 encode\|decode` Base64 utility. | Node.js | [@Amnibro](https://github.com/Amnibro) |
+| [`password-gen`](bots/password-gen/) | `/password [length]` secure random password. | Node.js | [@Amnibro](https://github.com/Amnibro) |
 
 ### Webhooks
 

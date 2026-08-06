@@ -65,8 +65,8 @@ Pace: **2 bots every 15 minutes** until the queue is empty.
 | 50 | `urbandict` | Urban Dictionary | [x] |
 | 51 | `color` | Hex/color tools | [x] |
 | 52 | `uuid-tool` | UUID generators | [x] |
-| 53 | `base64` | Encode/decode utils | [ ] |
-| 54 | `password-gen` | Password generators | [ ] |
+| 53 | `base64` | Encode/decode utils | [x] |
+| 54 | `password-gen` | Password generators | [x] |
 | 55 | `echo-once` | Ephemeral echo / DM-style | [ ] |
 | 56 | `mod-notes` | Staff notes | [ ] |
 
@@ -102,6 +102,7 @@ Already elsewhere: `github-releases` (upstream), `discord-bridge` (fork branch `
 - [x] Batch 24: report + sticky
 - [x] Batch 25: timezone-convert + urbandict
 - [x] Batch 26: color + uuid-tool
+- [x] Batch 27: base64 + password-gen
 - [ ] Continue at 2 bots / 15 min until queue empty
 - [ ] Open PR to ancsemi/haven-community (or keep on Amnibro fork)
 

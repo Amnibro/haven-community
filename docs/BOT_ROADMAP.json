@@ -53,11 +53,11 @@
     "timezone-convert",
     "urbandict",
     "color",
-    "uuid-tool"
+    "uuid-tool",
+    "base64",
+    "password-gen"
   ],
   "queue": [
-    "base64",
-    "password-gen",
     "echo-once",
     "mod-notes"
   ],
