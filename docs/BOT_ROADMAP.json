@@ -1,10 +1,8 @@
 {
   "version": 1,
   "pace": { "bots_per_batch": 2, "interval_minutes": 30 },
-  "completed": ["rss", "welcome"],
+  "completed": ["rss", "welcome", "reminders", "automod"],
   "queue": [
-    "reminders",
-    "automod",
     "custom-commands",
     "leveling",
     "starboard",

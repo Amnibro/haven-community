@@ -17,6 +17,8 @@ If you've built something useful for Haven, please PR it in. See [`CONTRIBUTING.
 | [`github-releases`](bots/github-releases/) | Posts a formatted message to a Haven channel whenever a new release is published on a watched GitHub repository. | Node.js | [@ancsemi](https://github.com/ancsemi) |
 | [`rss`](bots/rss/) | Polls RSS/Atom feeds and posts new items into a Haven channel (optional `/rss` management). | Node.js | [@Amnibro](https://github.com/Amnibro) |
 | [`welcome`](bots/welcome/) | Greets users when they join a channel via Haven `member-joined` events. | Node.js | [@Amnibro](https://github.com/Amnibro) |
+| [`reminders`](bots/reminders/) | Schedule channel reminders with `/remind` and `/reminders` (persisted timer). | Node.js | [@Amnibro](https://github.com/Amnibro) |
+| [`automod`](bots/automod/) | Word-list automod on `message` events: warn, optional delete and mute. | Node.js | [@Amnibro](https://github.com/Amnibro) |
 
 ### Webhooks
 
