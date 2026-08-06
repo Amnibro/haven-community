@@ -11,11 +11,11 @@
     "starboard",
     "twitch-live",
     "youtube",
-    "polls"
+    "polls",
+    "giveaway",
+    "uptime"
   ],
   "queue": [
-    "giveaway",
-    "uptime",
     "translate",
     "weather",
     "reddit",

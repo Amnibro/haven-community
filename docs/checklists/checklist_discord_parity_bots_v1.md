@@ -18,8 +18,8 @@ Pace: **2 bots every 30 minutes** until the major list is complete.
 | 8 | `twitch-live` | Twitch go-live | [x] |
 | 9 | `youtube` | YouTube uploads | [x] |
 | 10 | `polls` | Simple poll bots | [x] |
-| 11 | `giveaway` | GiveawayBot | [ ] |
-| 12 | `uptime` | Status / uptime pings | [ ] |
+| 11 | `giveaway` | GiveawayBot | [x] |
+| 12 | `uptime` | Status / uptime pings | [x] |
 | 13 | `translate` | Translate bots | [ ] |
 | 14 | `weather` | Weather bots | [ ] |
 | 15 | `reddit` | Reddit feed bots | [ ] |
@@ -47,7 +47,7 @@ Already elsewhere: `github-releases` (upstream), `discord-bridge` (fork branch `
 - [x] Batch 3: custom-commands, leveling
 - [x] Batch 4: starboard, twitch-live
 - [x] Batch 5: youtube, polls
-- [ ] Batch 6: giveaway, uptime
+- [x] Batch 6: giveaway, uptime
 - [ ] Batch 7: translate, weather
 - [ ] Batch 8: reddit, scheduled-announce
 - [ ] Batch 9: tickets, suggestions
