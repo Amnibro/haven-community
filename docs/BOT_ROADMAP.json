@@ -39,11 +39,11 @@
     "wikipedia",
     "math",
     "joke",
-    "animal-pics"
+    "animal-pics",
+    "github-issues",
+    "npm-releases"
   ],
   "queue": [
-    "github-issues",
-    "npm-releases",
     "birthday",
     "rsvp",
     "bump-reminder",
