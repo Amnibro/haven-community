@@ -55,12 +55,11 @@
     "color",
     "uuid-tool",
     "base64",
-    "password-gen"
-  ],
-  "queue": [
+    "password-gen",
     "echo-once",
     "mod-notes"
   ],
+  "queue": [],
   "authors": { "default": "@Amnibro" },
   "branch": "community-bots-parity",
   "notes": "Extended beyond original 20 Discord-parity majors into utility/fun/dev bridges."

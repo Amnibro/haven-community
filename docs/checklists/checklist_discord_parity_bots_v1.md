@@ -67,8 +67,8 @@ Pace: **2 bots every 15 minutes** until the queue is empty.
 | 52 | `uuid-tool` | UUID generators | [x] |
 | 53 | `base64` | Encode/decode utils | [x] |
 | 54 | `password-gen` | Password generators | [x] |
-| 55 | `echo-once` | Ephemeral echo / DM-style | [ ] |
-| 56 | `mod-notes` | Staff notes | [ ] |
+| 55 | `echo-once` | Ephemeral echo / DM-style | [x] |
+| 56 | `mod-notes` | Staff notes | [x] |
 
 Already elsewhere: `github-releases` (upstream), `discord-bridge` (fork branch `feat/discord-bridge`).
 
@@ -103,7 +103,8 @@ Already elsewhere: `github-releases` (upstream), `discord-bridge` (fork branch `
 - [x] Batch 25: timezone-convert + urbandict
 - [x] Batch 26: color + uuid-tool
 - [x] Batch 27: base64 + password-gen
-- [ ] Continue at 2 bots / 15 min until queue empty
+- [x] Batch 28: echo-once + mod-notes
+- [x] Queue empty (v2 expanded Discord-parity list complete on fork)
 - [ ] Open PR to ancsemi/haven-community (or keep on Amnibro fork)
 
 ## Notes

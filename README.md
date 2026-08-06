@@ -69,6 +69,8 @@ If you've built something useful for Haven, please PR it in. See [`CONTRIBUTING.
 | [`uuid-tool`](bots/uuid-tool/) | `/uuid [n]` generate UUID v4 values. | Node.js | [@Amnibro](https://github.com/Amnibro) |
 | [`base64`](bots/base64/) | `/b64 encode\|decode` Base64 utility. | Node.js | [@Amnibro](https://github.com/Amnibro) |
 | [`password-gen`](bots/password-gen/) | `/password [length]` secure random password. | Node.js | [@Amnibro](https://github.com/Amnibro) |
+| [`echo-once`](bots/echo-once/) | `/echo` ephemeral when recipient_id known. | Node.js | [@Amnibro](https://github.com/Amnibro) |
+| [`mod-notes`](bots/mod-notes/) | `/note add\|list` staff notes (STATE_FILE). | Node.js | [@Amnibro](https://github.com/Amnibro) |
 
 ### Webhooks
 
