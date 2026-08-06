@@ -27,11 +27,11 @@
     "define",
     "crypto",
     "world-clock",
-    "gitlab-releases"
+    "gitlab-releases",
+    "steam-news",
+    "hackernews"
   ],
   "queue": [
-    "steam-news",
-    "hackernews",
     "karma",
     "confessions",
     "say",

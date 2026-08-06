@@ -41,6 +41,8 @@ If you've built something useful for Haven, please PR it in. See [`CONTRIBUTING.
 | [`crypto`](bots/crypto/) | `/crypto <symbol>` prices via CoinGecko (no key). | Node.js | [@Amnibro](https://github.com/Amnibro) |
 | [`world-clock`](bots/world-clock/) | `/time` city or IANA zone; optional multi-zone board. | Node.js | [@Amnibro](https://github.com/Amnibro) |
 | [`gitlab-releases`](bots/gitlab-releases/) | Posts GitLab Release webhooks into a Haven channel. | Node.js | [@Amnibro](https://github.com/Amnibro) |
+| [`steam-news`](bots/steam-news/) | Poll Steam news for APP_IDS; post new gids. | Node.js | [@Amnibro](https://github.com/Amnibro) |
+| [`hackernews`](bots/hackernews/) | Poll HN top stories above SCORE_MIN. | Node.js | [@Amnibro](https://github.com/Amnibro) |
 
 ### Webhooks
 
