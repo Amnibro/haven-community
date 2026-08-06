@@ -23,6 +23,8 @@ If you've built something useful for Haven, please PR it in. See [`CONTRIBUTING.
 | [`leveling`](bots/leveling/) | Message XP / levels with `/rank` and `/levels` leaderboard. | Node.js | [@Amnibro](https://github.com/Amnibro) |
 | [`starboard`](bots/starboard/) | Posts highlighted messages when star reactions hit a threshold. | Node.js | [@Amnibro](https://github.com/Amnibro) |
 | [`twitch-live`](bots/twitch-live/) | Announces when watched Twitch streamers go live (Helix API). | Node.js | [@Amnibro](https://github.com/Amnibro) |
+| [`youtube`](bots/youtube/) | Posts new YouTube uploads via channel RSS (no API key). | Node.js | [@Amnibro](https://github.com/Amnibro) |
+| [`polls`](bots/polls/) | Create polls with `/poll` and vote with `/vote`; results tallies. | Node.js | [@Amnibro](https://github.com/Amnibro) |
 
 ### Webhooks
 

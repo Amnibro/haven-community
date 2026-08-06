@@ -9,11 +9,11 @@
     "custom-commands",
     "leveling",
     "starboard",
-    "twitch-live"
+    "twitch-live",
+    "youtube",
+    "polls"
   ],
   "queue": [
-    "youtube",
-    "polls",
     "giveaway",
     "uptime",
     "translate",
