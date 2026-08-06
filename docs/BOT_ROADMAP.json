@@ -19,11 +19,11 @@
     "reddit",
     "scheduled-announce",
     "tickets",
-    "suggestions"
+    "suggestions",
+    "moderation",
+    "afk"
   ],
   "queue": [
-    "moderation",
-    "afk",
     "counting",
     "quotes",
     "define",

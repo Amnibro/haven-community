@@ -33,6 +33,8 @@ If you've built something useful for Haven, please PR it in. See [`CONTRIBUTING.
 | [`scheduled-announce`](bots/scheduled-announce/) | Interval or daily HH:MM channel announcements. | Node.js | [@Amnibro](https://github.com/Amnibro) |
 | [`tickets`](bots/tickets/) | Support tickets: `/ticket open|close|list` with persisted cards. | Node.js | [@Amnibro](https://github.com/Amnibro) |
 | [`suggestions`](bots/suggestions/) | Suggestion box: `/suggest`, list, approve/reject (optional approvers). | Node.js | [@Amnibro](https://github.com/Amnibro) |
+| [`moderation`](bots/moderation/) | Slash `/kick` `/ban` `/unban` `/mute` `/unmute` (needs `can_moderate`). | Node.js | [@Amnibro](https://github.com/Amnibro) |
+| [`afk`](bots/afk/) | `/afk` `/back` plus mention announcements when someone is AFK. | Node.js | [@Amnibro](https://github.com/Amnibro) |
 
 ### Webhooks
 
