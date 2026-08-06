@@ -55,8 +55,8 @@ Pace: **2 bots every 15 minutes** until the queue is empty.
 | 40 | `npm-releases` | npm package updates | [x] |
 | 41 | `birthday` | Birthday bots | [x] |
 | 42 | `rsvp` | Event RSVP | [x] |
-| 43 | `bump-reminder` | Disboard-style bump | [ ] |
-| 44 | `lastfm` | Last.fm now-playing | [ ] |
+| 43 | `bump-reminder` | Disboard-style bump | [x] |
+| 44 | `lastfm` | Last.fm now-playing | [x] |
 | 45 | `trivia` | Trivia bots | [ ] |
 | 46 | `warns` | Warn systems | [ ] |
 | 47 | `report` | User report bots | [ ] |
@@ -97,6 +97,7 @@ Already elsewhere: `github-releases` (upstream), `discord-bridge` (fork branch `
 - [x] Batch 19: joke + animal-pics
 - [x] Batch 20: github-issues + npm-releases
 - [x] Batch 21: birthday + rsvp
+- [x] Batch 22: bump-reminder + lastfm
 - [ ] Continue at 2 bots / 15 min until queue empty
 - [ ] Open PR to ancsemi/haven-community (or keep on Amnibro fork)
 

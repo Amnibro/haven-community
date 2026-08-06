@@ -43,11 +43,11 @@
     "github-issues",
     "npm-releases",
     "birthday",
-    "rsvp"
+    "rsvp",
+    "bump-reminder",
+    "lastfm"
   ],
   "queue": [
-    "bump-reminder",
-    "lastfm",
     "trivia",
     "warns",
     "report",

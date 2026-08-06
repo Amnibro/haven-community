@@ -57,6 +57,8 @@ If you've built something useful for Haven, please PR it in. See [`CONTRIBUTING.
 | [`npm-releases`](bots/npm-releases/) | Poll npm registry for PACKAGE_NAMES version bumps. | Node.js | [@Amnibro](https://github.com/Amnibro) |
 | [`birthday`](bots/birthday/) | `/birthday set MM-DD`; daily happy-birthday list. | Node.js | [@Amnibro](https://github.com/Amnibro) |
 | [`rsvp`](bots/rsvp/) | `/event create` + RSVP yes/no/maybe. | Node.js | [@Amnibro](https://github.com/Amnibro) |
+| [`bump-reminder`](bots/bump-reminder/) | `/bump` timer; remind every BUMP_EVERY_HOURS. | Node.js | [@Amnibro](https://github.com/Amnibro) |
+| [`lastfm`](bots/lastfm/) | `/np [user]` Last.fm now-playing (API key). | Node.js | [@Amnibro](https://github.com/Amnibro) |
 
 ### Webhooks
 
