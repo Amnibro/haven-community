@@ -12,8 +12,8 @@ Pace: **2 bots every 30 minutes** until the major list is complete.
 | 2 | `welcome` | MEE6 / ProBot welcome | [x] |
 | 3 | `reminders` | Carl / YAGPDB remind | [x] |
 | 4 | `automod` | Dyno / Carl automod | [x] |
-| 5 | `custom-commands` | Carl custom commands | [ ] |
-| 6 | `leveling` | MEE6 XP | [ ] |
+| 5 | `custom-commands` | Carl custom commands | [x] |
+| 6 | `leveling` | MEE6 XP | [x] |
 | 7 | `starboard` | Starboard bots | [ ] |
 | 8 | `twitch-live` | Twitch go-live | [ ] |
 | 9 | `youtube` | YouTube uploads | [ ] |
@@ -44,7 +44,7 @@ Already elsewhere: `github-releases` (upstream), `discord-bridge` (fork branch `
 
 - [x] Batch 1 (now): rss, welcome
 - [x] Batch 2 (+30m): reminders, automod
-- [ ] Batch 3: custom-commands, leveling
+- [x] Batch 3: custom-commands, leveling
 - [ ] Batch 4: starboard, twitch-live
 - [ ] Batch 5: youtube, polls
 - [ ] Batch 6: giveaway, uptime

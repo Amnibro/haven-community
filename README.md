@@ -19,6 +19,8 @@ If you've built something useful for Haven, please PR it in. See [`CONTRIBUTING.
 | [`welcome`](bots/welcome/) | Greets users when they join a channel via Haven `member-joined` events. | Node.js | [@Amnibro](https://github.com/Amnibro) |
 | [`reminders`](bots/reminders/) | Schedule channel reminders with `/remind` and `/reminders` (persisted timer). | Node.js | [@Amnibro](https://github.com/Amnibro) |
 | [`automod`](bots/automod/) | Word-list automod on `message` events: warn, optional delete and mute. | Node.js | [@Amnibro](https://github.com/Amnibro) |
+| [`custom-commands`](bots/custom-commands/) | User-defined canned tags via `/tag` and optional `!prefix` message triggers. | Node.js | [@Amnibro](https://github.com/Amnibro) |
+| [`leveling`](bots/leveling/) | Message XP / levels with `/rank` and `/levels` leaderboard. | Node.js | [@Amnibro](https://github.com/Amnibro) |
 
 ### Webhooks
 
