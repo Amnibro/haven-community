@@ -29,11 +29,11 @@
     "world-clock",
     "gitlab-releases",
     "steam-news",
-    "hackernews"
+    "hackernews",
+    "karma",
+    "confessions"
   ],
   "queue": [
-    "karma",
-    "confessions",
     "say",
     "purge",
     "dice",

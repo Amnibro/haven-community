@@ -43,6 +43,8 @@ If you've built something useful for Haven, please PR it in. See [`CONTRIBUTING.
 | [`gitlab-releases`](bots/gitlab-releases/) | Posts GitLab Release webhooks into a Haven channel. | Node.js | [@Amnibro](https://github.com/Amnibro) |
 | [`steam-news`](bots/steam-news/) | Poll Steam news for APP_IDS; post new gids. | Node.js | [@Amnibro](https://github.com/Amnibro) |
 | [`hackernews`](bots/hackernews/) | Poll HN top stories above SCORE_MIN. | Node.js | [@Amnibro](https://github.com/Amnibro) |
+| [`karma`](bots/karma/) | `name++` / `name--` and `/karma` scores. | Node.js | [@Amnibro](https://github.com/Amnibro) |
+| [`confessions`](bots/confessions/) | Anonymous `/confess` as Confession Bot. | Node.js | [@Amnibro](https://github.com/Amnibro) |
 
 ### Webhooks
 

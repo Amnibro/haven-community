@@ -41,8 +41,8 @@ Pace: **2 bots every 15 minutes** until the queue is empty.
 | 26 | `gitlab-releases` | GitLab release posts | [x] |
 | 27 | `steam-news` | Steam news | [x] |
 | 28 | `hackernews` | HN feed | [x] |
-| 29 | `karma` | Reddit-style karma | [ ] |
-| 30 | `confessions` | Confession bots | [ ] |
+| 29 | `karma` | Reddit-style karma | [x] |
+| 30 | `confessions` | Confession bots | [x] |
 | 31 | `say` | Admin announce-as-bot | [ ] |
 | 32 | `purge` | Bulk delete helpers | [ ] |
 | 33 | `dice` | RPG dice | [ ] |
@@ -90,6 +90,7 @@ Already elsewhere: `github-releases` (upstream), `discord-bridge` (fork branch `
 - [x] Batch 12: define + crypto
 - [x] Batch 13: world-clock + gitlab-releases
 - [x] Batch 14: steam-news + hackernews
+- [x] Batch 15: karma + confessions
 - [ ] Continue at 2 bots / 15 min until queue empty
 - [ ] Open PR to ancsemi/haven-community (or keep on Amnibro fork)
 
