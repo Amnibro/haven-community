@@ -57,8 +57,8 @@ Pace: **2 bots every 15 minutes** until the queue is empty.
 | 42 | `rsvp` | Event RSVP | [x] |
 | 43 | `bump-reminder` | Disboard-style bump | [x] |
 | 44 | `lastfm` | Last.fm now-playing | [x] |
-| 45 | `trivia` | Trivia bots | [ ] |
-| 46 | `warns` | Warn systems | [ ] |
+| 45 | `trivia` | Trivia bots | [x] |
+| 46 | `warns` | Warn systems | [x] |
 | 47 | `report` | User report bots | [ ] |
 | 48 | `sticky` | Sticky message bots | [ ] |
 | 49 | `timezone-convert` | TZ convert | [ ] |
@@ -98,6 +98,7 @@ Already elsewhere: `github-releases` (upstream), `discord-bridge` (fork branch `
 - [x] Batch 20: github-issues + npm-releases
 - [x] Batch 21: birthday + rsvp
 - [x] Batch 22: bump-reminder + lastfm
+- [x] Batch 23: trivia + warns
 - [ ] Continue at 2 bots / 15 min until queue empty
 - [ ] Open PR to ancsemi/haven-community (or keep on Amnibro fork)
 
