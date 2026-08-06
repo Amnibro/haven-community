@@ -1,0 +1,27 @@
+{
+  "version": 1,
+  "pace": { "bots_per_batch": 2, "interval_minutes": 30 },
+  "completed": ["rss", "welcome"],
+  "queue": [
+    "reminders",
+    "automod",
+    "custom-commands",
+    "leveling",
+    "starboard",
+    "twitch-live",
+    "youtube",
+    "polls",
+    "giveaway",
+    "uptime",
+    "translate",
+    "weather",
+    "reddit",
+    "scheduled-announce",
+    "tickets",
+    "suggestions",
+    "moderation",
+    "afk"
+  ],
+  "authors": { "default": "@Amnibro" },
+  "branch": "community-bots-parity"
+}
