@@ -61,6 +61,8 @@ If you've built something useful for Haven, please PR it in. See [`CONTRIBUTING.
 | [`lastfm`](bots/lastfm/) | `/np [user]` Last.fm now-playing (API key). | Node.js | [@Amnibro](https://github.com/Amnibro) |
 | [`trivia`](bots/trivia/) | `/trivia start` Open Trivia DB; first correct wins. | Node.js | [@Amnibro](https://github.com/Amnibro) |
 | [`warns`](bots/warns/) | `/warn` `/warns` staff warning log (STATE_FILE). | Node.js | [@Amnibro](https://github.com/Amnibro) |
+| [`report`](bots/report/) | `/report` to staff webhook (optional anonymous). | Node.js | [@Amnibro](https://github.com/Amnibro) |
+| [`sticky`](bots/sticky/) | `/sticky set`; re-post every N messages. | Node.js | [@Amnibro](https://github.com/Amnibro) |
 
 ### Webhooks
 

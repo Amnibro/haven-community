@@ -47,11 +47,11 @@
     "bump-reminder",
     "lastfm",
     "trivia",
-    "warns"
+    "warns",
+    "report",
+    "sticky"
   ],
   "queue": [
-    "report",
-    "sticky",
     "timezone-convert",
     "urbandict",
     "color",
