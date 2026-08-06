@@ -1,10 +1,10 @@
-# Checklist: Discord-parity community bots v1
+# Checklist: Discord-parity community bots v2
 
 Goal: bring `ancsemi/haven-community` closer to Discord ecosystem coverage via deployable Haven bots.
 
-Pace: **2 bots every 30 minutes** until the major list is complete.
+Pace: **2 bots every 15 minutes** until the queue is empty.
 
-## Major bot roadmap (priority order)
+## Wave 1 — core Discord parity (20)
 
 | # | Bot | Discord analogue | Status |
 |---|-----|------------------|--------|
@@ -29,6 +29,47 @@ Pace: **2 bots every 30 minutes** until the major list is complete.
 | 19 | `moderation` | Dyno mod slash cmds | [ ] |
 | 20 | `afk` | AFK bots | [ ] |
 
+## Wave 2 — extended parity (fun / utility / dev)
+
+| # | Bot | Discord analogue | Status |
+|---|-----|------------------|--------|
+| 21 | `counting` | Counting channels | [ ] |
+| 22 | `quotes` | Quote books | [ ] |
+| 23 | `define` | Dictionary | [ ] |
+| 24 | `crypto` | Crypto price bots | [ ] |
+| 25 | `world-clock` | Timezone boards | [ ] |
+| 26 | `gitlab-releases` | GitLab release posts | [ ] |
+| 27 | `steam-news` | Steam news | [ ] |
+| 28 | `hackernews` | HN feed | [ ] |
+| 29 | `karma` | Reddit-style karma | [ ] |
+| 30 | `confessions` | Confession bots | [ ] |
+| 31 | `say` | Admin announce-as-bot | [ ] |
+| 32 | `purge` | Bulk delete helpers | [ ] |
+| 33 | `dice` | RPG dice | [ ] |
+| 34 | `choose` | Pick-one bots | [ ] |
+| 35 | `wikipedia` | Wiki lookup | [ ] |
+| 36 | `math` | Calculator | [ ] |
+| 37 | `joke` | Joke bots | [ ] |
+| 38 | `animal-pics` | Cat/dog image bots | [ ] |
+| 39 | `github-issues` | Issue webhooks | [ ] |
+| 40 | `npm-releases` | npm package updates | [ ] |
+| 41 | `birthday` | Birthday bots | [ ] |
+| 42 | `rsvp` | Event RSVP | [ ] |
+| 43 | `bump-reminder` | Disboard-style bump | [ ] |
+| 44 | `lastfm` | Last.fm now-playing | [ ] |
+| 45 | `trivia` | Trivia bots | [ ] |
+| 46 | `warns` | Warn systems | [ ] |
+| 47 | `report` | User report bots | [ ] |
+| 48 | `sticky` | Sticky message bots | [ ] |
+| 49 | `timezone-convert` | TZ convert | [ ] |
+| 50 | `urbandict` | Urban Dictionary | [ ] |
+| 51 | `color` | Hex/color tools | [ ] |
+| 52 | `uuid-tool` | UUID generators | [ ] |
+| 53 | `base64` | Encode/decode utils | [ ] |
+| 54 | `password-gen` | Password generators | [ ] |
+| 55 | `echo-once` | Ephemeral echo / DM-style | [ ] |
+| 56 | `mod-notes` | Staff notes | [ ] |
+
 Already elsewhere: `github-releases` (upstream), `discord-bridge` (fork branch `feat/discord-bridge`).
 
 ## Per-bot deliverables
@@ -42,16 +83,8 @@ Already elsewhere: `github-releases` (upstream), `discord-bridge` (fork branch `
 
 ## Batches
 
-- [x] Batch 1 (now): rss, welcome
-- [x] Batch 2 (+30m): reminders, automod
-- [x] Batch 3: custom-commands, leveling
-- [x] Batch 4: starboard, twitch-live
-- [x] Batch 5: youtube, polls
-- [x] Batch 6: giveaway, uptime
-- [x] Batch 7: translate, weather
-- [x] Batch 8: reddit, scheduled-announce
-- [ ] Batch 9: tickets, suggestions
-- [ ] Batch 10: moderation, afk
+- [x] Batches 1–8: through scheduled-announce
+- [ ] Continue at 2 bots / 15 min until queue empty
 - [ ] Open PR to ancsemi/haven-community (or keep on Amnibro fork)
 
 ## Notes
